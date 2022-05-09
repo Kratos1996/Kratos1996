@@ -2,7 +2,7 @@
 
 <h3 align="center">I am System Engineer in TATA Consultancy Service . I am passionately freelancer as well as Worker  .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmfayard&label=Profile%20views&color=0e75b6&style=flat" alt="jmfayard" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kratos1996&label=Profile%20views&color=0e75b6&style=flat" alt="Ishant Sharma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jmfayard" alt="jmfayard" /></a> </p>
 
