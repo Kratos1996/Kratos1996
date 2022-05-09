@@ -22,7 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Create Your Own Base Adapter for Recycler 🗣](https://www.blogger.com/u/1/blog/post/edit/3955407807952354738/4704949920127999952)
+- [Create Your Own Base Adapter for Recycler 🗣](https://ishantsharma007.blogspot.com/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
