@@ -39,3 +39,44 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kratos1996&show_icons=true&locale=en&layout=compact" alt="Ishant Sharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kratos1996&show_icons=true&locale=en" alt="Ishant Sharma" /></p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Kratos1996&count_private=true&show_icons=true&title_color=333&icon_color=333)
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Kratos1996)
+
+
+
+**Languages and Tools:**  
+
+<p align="left"> 
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<img  height="24"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+<img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+</p>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+	    <li><b>Laptop: </b> I5 Pro Macbook</li>
+  	  <li><b>OS:</b> Windows and MacOS</li>
+  	  <li><b>Browser: </b> Brave</li>
+	    <li><b>Code Editor:</b> Android Studio and VS Code</li>
+	    <br />
+	</ul>	
+</details>
+
+
+One can reach me with below methods
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ishant-sharma-056905199/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:developerishant@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/god_father_ishant/)
+
