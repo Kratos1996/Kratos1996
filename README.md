@@ -57,8 +57,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kratos1996&show_icons=true&locale=en&layout=compact" alt="Ishant Sharma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kratos1996&show_icons=true&locale=en" alt="Ishant Sharma" /></p>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Kratos1996&count_private=true&show_icons=true&title_color=333&icon_color=333)
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=Kratos1996)
 
