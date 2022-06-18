@@ -20,6 +20,9 @@
 
 - ⚡ Fun fact **Singing made me a better programmer**
 
+![Snake animation](https://github.com/Kratos1996/Kratos1996/blob/output/github-contribution-grid-snake.svg)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Create Your Own Base Adapter for Recycler 🗣](https://ishantsharma007.blogspot.com/)
