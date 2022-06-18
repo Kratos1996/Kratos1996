@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Singing made me a better programmer**
 
-![Snake animation](https://github.com/Kratos1996/Kratos1996/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
 
 
 ### Blogs posts
