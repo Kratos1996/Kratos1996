@@ -22,6 +22,12 @@
 
 - My 3D Github Contribution https://skyline.github.com/Kratos1996/2021
 
+**My Activity**
+
+[![activity graph](https://github-readme-activity-graphs.herokuapp.com/graph?username=Kratos1996&theme=github-light&hide_border=true)](https://github.com/Kratos1996/github-readme-activity-graph)
+
+
+
 ![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
 
 
