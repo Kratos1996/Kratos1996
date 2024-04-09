@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishant Sharma</h1>
 
-<h3 align="center">I am Android Engineer at IXFI(blockchain Exchange ). I am passionately freelancer as well as Worker  .</h3>
+<h3 align="center">I am Android Engineer at IXFI(blockchain Exchange ).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kratos1996&label=Profile%20views&color=0e75b6&style=flat" alt="Ishant Sharma" /> </p>
 
